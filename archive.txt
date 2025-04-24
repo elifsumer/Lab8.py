@@ -1,6 +1,9 @@
 Book,B001,Deep Learning,2018,Ian Goodfellow,775
 Book,B002,Python Basics,2021,Jane Smith,300
+Book,B003,Harry Potter,1997,J. K. Rowling,274
 Article,A101,Quantum Computing,2022,Nature,10.1234/qc567
 Article,A102,AI Ethics,2023,IEEE,10.5678/aiethics
+Article,A201,Machine Learning,2021,Journal of AI Research,10.1234/ml-ed2021
 Podcast,P301,TechTalk AI,2023,Jane Doe,45
 Podcast,P302,History Now,2019,John Smith,30
+Podcast,P401,Startup Stories,2022,Elif Karaca,50
